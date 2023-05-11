@@ -1,0 +1,22 @@
+.tittle_button {
+    padding-top: 120px;
+}
+
+.regular {
+    text-align: left;
+    width: 549px;
+    font-weight: 500;
+    font-size: 48px;
+    color: #BB2339;;
+}
+.menu_button{
+    padding-top: 70px;
+}
+.tittel_btn{
+        border-radius: 20px;
+        background-color:white;
+        color: black;
+        border: 1px solid #a50f73;
+        padding-left: 10px;
+        padding: 5px 30px;
+}

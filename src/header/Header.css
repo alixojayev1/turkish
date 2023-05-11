@@ -1,0 +1,12 @@
+.navbar_color{
+    background-color: red;
+    
+}
+.nav_button{
+    border-radius: 15px;
+    padding: 5px 25px;
+    border: 2px solid white;
+}
+.nav_button{
+    background-color: red;
+}
